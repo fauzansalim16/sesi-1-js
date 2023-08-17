@@ -1,3 +1,7 @@
 halo ini adalah catatan
 catatan untuk squash merge
 
+test squash merge 1
+test squash merge 2
+test squash merge 3
+test squash merge 4
