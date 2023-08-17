@@ -1,1 +1,2 @@
 halo ini adalah catatan
+catatan untuk squash merge
